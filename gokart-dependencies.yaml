@@ -1,0 +1,7 @@
+python3-pynput:
+  osx:
+    pip:
+      packages: [pynput]
+  ubuntu:
+    pip:
+      packages: [pynput]
